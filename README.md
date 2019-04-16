@@ -8,7 +8,7 @@ This assignment deals with floating-point numbers. The instructions are in the f
 You might find the following materials useful:
 1. [IEEE 754 single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format).
 2. [IEEE 754 single-precision converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html).
-3. [Excess (aka offset) signed integer representation](https://en.wikipedia.org/wiki/Signed_number_representations#Offset_binary).
+3. [Excess (aka offset, bias) signed integer representation](https://en.wikipedia.org/wiki/Signed_number_representations#Offset_binary).
 4. [Low-level floating-point marshalling between different instruction-level architectures](http://ecet.ecs.uni-ruse.bg/cst06/Docs/cp/SII/II.4.pdf).
 
 ## Tandem Non-stop Series (TNS) Format
