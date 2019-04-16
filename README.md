@@ -10,6 +10,7 @@ You might find the following materials useful:
 2. [IEEE 754 single-precision converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html).
 3. [Excess (aka offset, bias) signed integer representation](https://en.wikipedia.org/wiki/Signed_number_representations#Offset_binary).
 4. [Low-level floating-point marshalling between different instruction-level architectures](http://ecet.ecs.uni-ruse.bg/cst06/Docs/cp/SII/II.4.pdf).
+5. [Uses of a barrel shifter](https://en.wikipedia.org/wiki/Barrel_shifter#Uses).
 
 ## Tandem Non-stop Series (TNS) Format
 The Tandem Non-Stop Series (TNS) are very reliable supercomputers widely used as servers in banks, financial institutions, the military, etc. 
